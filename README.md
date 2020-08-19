@@ -15,10 +15,10 @@ This site had a lot of content so when coding it was a challenge to visualize wh
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-BBC: https://kimflores-bbc.netlify.app
+BBC: https://github.com/Kim-Flores/
 
-Yelp: https://kimflores-yelp.netlify.app
+Yelp: https://github.com/Kim-Flores/Yelp
 
-Level Ground: https://kimflores-levelground.netlify.app
+Level Ground: https://github.com/Kim-Flores/Level-ground
 
-Venture Beat: https://kimflores-venturebeat.netlify.app
+Venture Beat: https://github.com/Kim-Flores/Venture-Beat

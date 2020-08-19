@@ -15,7 +15,7 @@ This site had a lot of content so when coding it was a challenge to visualize wh
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-BBC: https://github.com/Kim-Flores/
+BBC: https://github.com/Kim-Flores/BBC
 
 Yelp: https://github.com/Kim-Flores/Yelp
 

@@ -4,8 +4,7 @@ live code: https://kimflores-jwli.netlify.app
 
 # How It's Made:
 ## Tech used: 
-HTML & CSS
-My task was to replicate the JWLI homepage with HTML and CSS. I was given a screenshot as reference and implemented media queries for responsiveness.
+My task was to replicate the JWLI homepage with **HTML** and **CSS**. I was given a screenshot as reference and implemented media queries for responsiveness.
 
 
 ![JWLI Final](jwliimg.png)
@@ -21,3 +20,5 @@ BBC: https://kimflores-bbc.netlify.app
 Yelp: https://kimflores-yelp.netlify.app
 
 Level Ground: https://kimflores-levelground.netlify.app
+
+Venture Beat: https://kimflores-venturebeat.netlify.app
